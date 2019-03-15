@@ -4,7 +4,7 @@
 That's Domino's... as in pizza!
 
 ## Objective
-Use the JavaScript skill you have learned to add functionality to the Create Your Own Pizza web application.
+Use the JavaScript skills you have learned to add functionality to the Create Your Own Pizza web application.
 
 ## Requirements
 
